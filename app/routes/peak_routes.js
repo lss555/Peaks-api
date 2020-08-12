@@ -115,4 +115,9 @@ router.delete('/peaks/:id', requireToken, (req, res, next) => {
     .catch(next)
 })
 
+// // putting in the each helper
+// router.get('/each/helper', (req, res) => {
+//   res.render('peaks')
+// })
+
 module.exports = router

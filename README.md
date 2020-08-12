@@ -27,7 +27,9 @@ As a user I want to be able to view other peoples stats
 - HTML/CSS
 - Bootstrap
 - Javascript
-- handlebars
+- handlebars.js
+- Mongoose
+- mongoDB
 
 ### Unsolved Problems
 
